@@ -8,3 +8,4 @@ run_all.py
 add_friend.ipynb
 bot.py
 .ipynb_checkpoints
+__pycache__
